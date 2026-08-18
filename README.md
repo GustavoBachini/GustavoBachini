@@ -18,7 +18,7 @@
 ### 🚀 Sobre mim
 
 - 📍 Nova Friburgo, RJ — Brasil
-- 💼 3+ anos de experiência • 20+ projetos entregues • 6 stacks dominadas
+- 💼 4+ anos de experiência • 20+ projetos entregues • 6 stacks dominadas
 - 🧠 Especialista em APIs REST, backend e integração de IA (RAG, agentes autônomos, prompt engineering)
 - ✅ Disponível para novos projetos
 
